@@ -1,0 +1,5 @@
+SrcFrom：https://oshwhub.com/flowersauce/esp32-mo-shui-ping-kai-fa-ban_copy_copy
+
+project.zip：立创标准版工程
+gerber.zip：PCB 打样
+3d_obj.zip：PCB 3D模型
